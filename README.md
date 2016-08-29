@@ -2,4 +2,4 @@
 A theme for Openbox 3 which draws inspiration from Google's material design and the Paper GTK+ theme
 
 
-![Screenshot](blob/master/screenshot.png?raw=true)
+![Screenshot](screenshot.png?raw=true)
